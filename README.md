@@ -1,5 +1,5 @@
-Magento Totango Integration
-===========================
+Magento Totango Integration `[UNMAINTAINED]`
+============================================
 
 A Magento extension that integrates Magento platform with Totango tracking service.
 
